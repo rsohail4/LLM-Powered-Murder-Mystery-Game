@@ -1,0 +1,55 @@
+/* Custom CSS for Murder Mystery Detective Game */
+
+.main-header {
+    background: linear-gradient(90deg, #1e3c72 0%, #2a5298 100%);
+    padding: 1rem;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.character-card {
+    background: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.victim-card {
+    background: #ffe6e6;
+    border-color: #ff6b6b;
+}
+
+.conversation-bubble {
+    background: #e3f2fd;
+    border-left: 4px solid #2196f3;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 0 8px 8px 0;
+}
+
+.sherlock-bubble {
+    background: #fff3e0;
+    border-left: 4px solid #ff9800;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 0 8px 8px 0;
+}
+
+.clue-box {
+    background: #f1f8e9;
+    border: 1px solid #8bc34a;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 0.5rem 0;
+}
+
+.game-stats {
+    background: #fafafa;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1rem 0;
+}
